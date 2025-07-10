@@ -1,6 +1,6 @@
-# Hi there, I'm Abebaw Tsega! 👋
+# Hi 👋, I'm Abebaw Tsega! 
 
-Welcome to my GitHub profile! I'm a passionate junior full stack web developer, eager to learn and grow in the world of web development. 
+I'm passionate junior full stack web developer, eager to learn and grow in the world of web development. 
 I enjoy working on both frontend and backend technologies and am always looking for new challenges and opportunities to improve my skills.
 
 ## 🚀 About Me
@@ -12,7 +12,7 @@ I enjoy working on both frontend and backend technologies and am always looking 
 
 ## 💻 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React, tailwindCss, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript, React, tailwindCss
 - **Backend:** Node.js, Express, PHP
 - **Databases:** MySQL, Postgresql
 - **Version Control:** Git, GitHub
