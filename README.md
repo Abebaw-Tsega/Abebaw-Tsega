@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abebaw Tsega! 
 
-I'm passionate junior full stack web developer, eager to learn and grow in the world of web development. 
+I'm passionate full stack web developer, eager to learn and grow in the world of web development. 
 I enjoy working on both frontend and backend technologies and am always looking for new challenges and opportunities to improve my skills.
 
 ## 🚀 About Me
