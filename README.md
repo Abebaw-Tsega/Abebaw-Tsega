@@ -12,10 +12,10 @@ I enjoy working on both frontend and backend technologies and am always looking 
 
 ## 💻 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React, tailwindCss
+- **Frontend:** HTML, CSS, JavaScript, React, Nextjs, tailwindCss
 - **Backend:** Node.js, Express, PHP
-- **Databases:** MySQL, Postgresql
+- **Databases:** MySQL, Postgresql, Mongodb
 - **Version Control:** Git, GitHub
-- **Other Tools:** Visual Studio Code, Postman
+- **Other Tools:** Visual Studio Code, Postman, cursor
   
 Thank you for visiting my profile! Have a great day! 😊
